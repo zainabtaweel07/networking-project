@@ -1,4 +1,3 @@
-# networking-project
 # Enterprise Network Design and Implementation
 
 ## Overview
